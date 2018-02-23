@@ -166,3 +166,5 @@ def windowed_max_range(arr, range)
   end
   current_max_range
 end
+
+"little change"
